@@ -3,6 +3,7 @@
   box-shadow: rgba(0, 0, 0, 0.15) 0px -2px 10px 0px;
   justify-content: space-between;
   align-items: center;
+  font-weight: 600;
   padding: 0.5em 2em;
 }
 
@@ -35,8 +36,8 @@
 
 .active {
   border-radius: 6px;
-  background-color: #2803f7;
-  color: #fff;
+  background-color: #1b1b1b;
+  color: #f5f5f5;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;

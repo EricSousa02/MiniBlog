@@ -77,7 +77,7 @@ const Navbar = () => {
         </li>
         {user && (
           <li>
-            <button onClick={logout}>Sair</button>
+            <button  style={{fontWeight: 600}} onClick={logout}>Sair</button>
           </li>
         )}
         {/* fim/ condicionamento que se estiver logado exibe ou nao essas opcoes da navbar */}
